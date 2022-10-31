@@ -1,0 +1,53 @@
+{
+  "user": {
+    "userName": "Nalinda Dissanayake",
+    "email": "nalinda@gmail.com",
+    "password": 12345678,
+    "age": 22,
+    "address": {
+      "country": "Sri Lanka",
+      "zipcode": 7272,
+      "city": "Kandy",
+      "lane": "Street of Heaven",
+      "houseNumber": 127
+    }
+  },
+
+  "login": {
+    "userName": "Nalinda Dissanayake",
+    "password": 12345678
+  },
+
+  "product": {
+    "name": "Adata 256GB SSD",
+    "description": "Lorem ipsum dolor sit amet voluptua exerci justo nonumy feugiat diam mazim sit no amet zzril dignissim feugiat. Amet eos sed duo. Et eirmod vel sanctus augue sed ut magna ea kasd eos esse et amet no dolor. Ut sea lorem sed voluptua duo. Duis eirmod in dolore rebum no lorem sea ipsum dolores ipsum ea elitr odio iusto. Sadipscing voluptua diam nonumy diam et sed justo justo iusto sit ipsum ipsum diam sanctus. Eirmod exerci consetetur accumsan eirmod ipsum amet sanctus stet sed diam takimata sit at sea erat iriure. Kasd ipsum duis consetetur ut dolor dolor accusam eu. At consetetur eirmod sanctus sit sed nonummy nobis veniam ipsum et suscipit feugait accusam diam. Amet cum et. Sit eos gubergren aliquip lorem lorem diam minim vero. Vero dolores accusam diam. Justo tempor et sea. Invidunt feugait dolor vel kasd sit tempor. Dolores ipsum iriure clita ipsum diam rebum.",
+    "images": [
+      "www.images.com/1",
+      "www.images.com/2",
+      "www.images.com/3",
+      "www.images.com/4"
+    ],
+    "price": 12,
+    "ageRange": 20,
+    "colors": ["black", "white"],
+    "size": "sm"
+  },
+
+  "cart": {
+    "userID": 12121212,
+    "products": [{ "7654534435": 1 }, { "3467546436": 2 }, { "8765744322": 1 }]
+  },
+
+  "order": {
+    "userID": 12331232,
+    "products": [{ "7654534435": 1 }, { "3467546436": 2 }, { "8765744322": 1 }],
+    "address": {
+      "country": "Sri Lanka",
+      "zipcode": 7272,
+      "city": "Kandy",
+      "lane": "Street of Heaven",
+      "houseNumber": 127
+    },
+    "status": "on ship"
+  }
+}
